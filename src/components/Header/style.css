@@ -1,0 +1,14 @@
+#Name {
+    font-size: 29px;
+}
+
+.nav-link {
+    opacity: 1;
+}
+
+.header {
+    top: 0;
+    position: fixed;
+    padding: 48px;
+    
+}

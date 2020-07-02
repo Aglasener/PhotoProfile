@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Health Risk Assessment",
+    "image": "./assets/images/Photo1.1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cocktail Party",
+    "image": "./assets/images/Photo1.2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Employee Tracker",
+    "image": "./assets/images/Photo1.3.jpg"
+   
+  },
+  {
+    "id": 4,
+    "name": "Weather Dashboard",
+    "image": "./assets/images/Photo1.4.jpg"
+   
+  },
+  {
+    "id": 5,
+    "name": "Coding Quiz",
+    "image": "./assets/images/Photo1.5.jpg"
+    
+  },
+  {
+    "id": 6,
+    "name": "Health Risk Assessment",
+    "image": "./assets/images/Photo1.6.jpg"
+    
+  }
+]
